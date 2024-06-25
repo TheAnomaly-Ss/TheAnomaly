@@ -1,2 +1,0 @@
-# TheAnomaly
-Creating scripts
